@@ -8,8 +8,8 @@ We plan on achieving this using a Content Generating and Preserving Network. We 
 
 ## Modules to be Done
 1. Semantic Generation Module
-- G1
-- G2
+  - G1
+  - G2
 2. Clothes Warping Module
 3. Cloth Mask Inpainting
 4. Content Fusion Model
