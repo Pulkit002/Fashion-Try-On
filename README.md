@@ -11,9 +11,9 @@ The objective of our project is to develop a visual try-on system based on the A
 ## Modules (Diagrams)
 
 ## Modules to be Done
-1. Semantic Generation Module
+1. Semantic Generation Module: Utilises semantic generation module, responsible for predicting the desired semantic layout after try-on .
 - G1
 - G2
-2. Clothes Warping Module
-3. Cloth Mask Inpainting
-4. Content Fusion Model
+2. Clothes Warping Module: responsible for warping the cloth images as per the generated mask.
+3. Cloth Mask Inpainting: responsible for accurate non target body part regeneration.
+4. Content Fusion Model: fuses the information from the first and second modules to generate accurate try-ons. 
