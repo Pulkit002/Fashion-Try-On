@@ -7,7 +7,7 @@ This folder contains preprocessing files
 - Resize the input image to 1024x768
 - run openpose
 - run densepose
-### Run these commands (for setting up densepose) in terminal for DensePose
+**Run these commands (for setting up densepose) in terminal for DensePose**
 python -m pip install -e detectron2
 
 (It may ask to install visual studio build tools, follow the instructions as prompted to install the above)
