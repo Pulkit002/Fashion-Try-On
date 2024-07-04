@@ -15,6 +15,7 @@ python -m pip install -e detectron2
 
 pip install av>=8.0.3 opencv-python-headless>=4.5.3.56 scipy>=1.5.4 
 - run humanparse
+
 humanParse not running in local, get the result by running it in kaggle (use lip model)
 
 kaggle link - https://www.kaggle.com/code/pulkt02/humanparsing
